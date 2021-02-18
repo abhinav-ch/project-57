@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(#0084ff, #00b3ff, #00eaff);
+    text-align: center;
+}
+
+a, p{
+    font-size: 20px;
+    font-family: 'Alfa Slab One', cursive;
+    font-style: italic;
+    font-weight: 100;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover{
+    text-decoration: underline;
+}
